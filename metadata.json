@@ -1,0 +1,5 @@
+{
+  "name": "VeriSkill AI",
+  "description": "An AI-powered resume skill authenticity detection system that verifies candidate claims against professional patterns and public profiles using Gemini 3.",
+  "requestFramePermissions": []
+}
